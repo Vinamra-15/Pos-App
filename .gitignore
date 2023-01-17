@@ -1,0 +1,14 @@
+.idea
+posapp/log4j.properties
+posapp/pos.properties
+posapp/.idea
+posapp/jetty.log
+posapp/target
+invoice/log4j.properties
+invoice/invoice.properties
+invoice/.idea
+invoice/jetty.log
+invoice/target
+invoice/bill.pdf
+invoice/resultPDF.pdf
+pos.properties
